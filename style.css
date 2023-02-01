@@ -24,6 +24,12 @@ h2 {
     background-color:black;
 }
 
+.location {
+    font-size: 15pt;
+    color:rgb(0, 0, 0);
+    background-color:rgba(255, 0, 21, 0.158);
+}
+
 
 body{
     background-color:white;
